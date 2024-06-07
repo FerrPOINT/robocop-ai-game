@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Робокоп Игра</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="gameContainer">
+        <div id="mainMenu">
+            <h1>Робокоп Игра</h1>
+            <button id="startButton">Старт</button>
+            <button id="exitButton" disabled>Выход</button>
+        </div>
+        <canvas id="gameCanvas" width="800" height="600" style="display:none;"></canvas>
+        <div id="healthBarContainer">
+            <div id="healthBar"></div>
+        </div>
+        <div id="livesContainer">
+            <img src="assets/images/heart_resized.png" alt="Жизни" id="heartIcon">
+            <span id="livesCount">3</span>
+        </div>
+    </div>
+    <script src="game.js"></script>
+</body>
+</html>
