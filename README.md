@@ -15,9 +15,9 @@ The project includes the following features:
 
 - *Player Control*: Use the arrow keys to move and the space bar to shoot.
 - *Enemies**: Enemies appear at intervals and move toward the player.
-- *HeÉpth and Lives*: The player's health and lives count are displayed on the screen.
+- *HeÃ‰pth and Lives*: The player's health and lives count are displayed on the screen.
 - *Bullets and Shooting**: Use the space bar to shoot bullets and destroy enemies.
-- *Collision Detection*Š¢ The game checks for collisions between the player, bullets, and enemies.
+- *Collision Detection*Å Â¢ The game checks for collisions between the player, bullets, and enemies.
 
 ## Future Enhancements
 
