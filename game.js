@@ -1,1 +1,2 @@
-wtton = document.getElementById('startButton'
+what loads the game.
+- *style.css*: The style
