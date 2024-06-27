@@ -1,2 +1,1 @@
-Main JavaScript file with the game logic.
-- *
+assets/*: The folder with assets such as imag
