@@ -1,2 +1,2 @@
-what loads the game.
-- *style.css*: The style
+sheet file for styling the page.
+- *game.js**
