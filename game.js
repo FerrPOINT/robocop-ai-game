@@ -1,2 +1,2 @@
-sheet file for styling the page.
-- *game.js**
+Main JavaScript file with the game logic.
+- *
