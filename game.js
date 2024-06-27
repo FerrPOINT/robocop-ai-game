@@ -1,1 +1,1 @@
-utton = document.getElementById('startButton'
+wtton = document.getElementById('startButton'
