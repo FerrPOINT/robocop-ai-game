@@ -1,2 +1,1 @@
-window.onload = function() {
-    const startB
+utton = document.getElementById('startButton'
